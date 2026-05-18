@@ -1,11 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,333:7C3AED&height=244&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=244&section=header&animation=fadeIn&text=Ship+it.&fontColor=ffffff&fontSize=52&fontAlignY=40" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hello+World!;console.log('Hello+World')" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=4F46E5&center=true&vCenter=true&width=435&lines=Hello+World!;while+alive;+{+code();eat();sleep();+};git+commit+-m+'it+works';rm+-rf+%2Fmy-problems" alt="Typing SVG" />
   </a>
 </div>
-
 
 <div align="center">
   <img src="./abuluqi_2.png" width="auto" alt="avatar" />
@@ -20,14 +19,20 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "ivanReckless"
-        self.role        = "Full-Stack / ML Developer"
-        self.location    = "Earth 🌍"
-        self.editor      = "Trae CN"
-        self.interests   = ["Deep Learning", "Web Development", "Open Source"]
+        self.name          = "ivanReckless"
+        self.role          = "Full-Stack / ML Developer"
+        self.location      = "Earth 🌍"
+        self.editor        = "Trae CN"
+        self.coffee_level  = "☕" * 999
+        self.bugs_produced = float("inf")
+        self.debug_mode    = "print('here')"
 
     def say_hi(self):
-        print("Thanks for visiting my profile — have a great day!")
+        print("Thanks for visiting — have a great day!")
+
+    def fix_bug(self):
+        self.bugs_produced += 1
+        return "It compiles. Ship it."
 
 me = Developer()
 me.say_hi()
@@ -84,12 +89,7 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanReckless&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=7C3AED&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanReckless&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ivanReckless&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=7C3AED&currStreakLabel=4F46E5" />
+  <img src="https://streak-stats.demolab.com/?user=ivanReckless&hide_border=true&background=0D1117&ring=4F46E5&fire=7C3AED&currStreakNum=7C3AED&currStreakLabel=8B5CF6&sideNums=8B5CF6&sideLabels=8B5CF6&dates=c9d1d9" />
 </div>
 
 &nbsp;
@@ -100,7 +100,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=4F46E5&quote_color=c9d1d9&quote=Code+is+like+humor.+When+you+have+to+explain+it%2c+it%27s+bad.&author=Cory+House&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border_color=4F46E5&quoteColor=c9d1d9&authorColor=8B5CF6&backgroundColor=0D1117&quote=Code+is+like+humor.+When+you+have+to+explain+it%2c+it%27s+bad.&author=Cory+House&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
